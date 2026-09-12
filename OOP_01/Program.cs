@@ -123,8 +123,9 @@ internal class Program
     }
     #endregion
 
-    #region DeliveryCenter struct
+   #region DeliveryCenter struct
     // Sorry I can't Do , in my group we didn't take indexers 
+    // in next assignment i will do this struct and the required in Main
     #endregion
 
     static void Main(string[] args)
