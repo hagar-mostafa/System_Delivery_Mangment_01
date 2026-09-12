@@ -147,7 +147,7 @@ internal class Program
         // And that is the benefit of Encapsulation
         #endregion
 
-        #region DeliveryAddress struct 
+       #region DeliveryAddress struct 
         DeliveryAddress add1 = new DeliveryAddress("Nasr City", "Abas Elaqad", 4);
         DeliveryAddress copyadd1;
         copyadd1 = add1;
