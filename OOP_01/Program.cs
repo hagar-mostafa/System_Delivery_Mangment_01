@@ -26,7 +26,7 @@ internal class Program
     #endregion
 
 
-    #region  Shipment struct
+   #region  Shipment struct
     struct Shipment
     {
         private string _TrackingCode;
